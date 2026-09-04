@@ -15,7 +15,9 @@
 
 ---
 
-![record login_page](assets/login_page.png)
+![record login_page](assets/login.png)
+![record collection](assets/collection.png)
+![record rec](assets/rec.png)
 
 ---
 
