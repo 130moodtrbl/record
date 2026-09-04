@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by a team of 4 students*
+*This project has been created as part of the 42 curriculum by a team of 4 students.*
 
 ---
 # ♪ Table of Contents
@@ -15,7 +15,7 @@
 
 ---
 
-![record logo](src/frontend/src/assets/icons/record.svg)
+![record login_page](assets/login_page.png)
 
 ---
 
